@@ -1,6 +1,3 @@
-# bank-marketing-subscriptions-decision-trees
-Decision Tree and Boosting Approaches for Predicting Bank Marketing Subscriptions
-
 # Bank Marketing Subscriptions — Decision Trees & Boosting
 
 Predict whether a customer will subscribe to a bank term deposit using demographic and campaign features, based on the UCI Bank Marketing dataset.
