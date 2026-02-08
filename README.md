@@ -2,7 +2,7 @@
 
 Predict whether a customer will subscribe to a bank term deposit using demographic and campaign features, based on the UCI Bank Marketing dataset.
 
-## Project Overview
+## Overview
 - Binary classification task: `y` = term deposit subscription (`yes` / `no`)
 - Built interpretable Decision Tree models and improved performance using boosting
 - Focused on appropriate evaluation metrics due to class imbalance
