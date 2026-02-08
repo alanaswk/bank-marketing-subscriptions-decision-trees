@@ -8,8 +8,8 @@ Predict whether a customer will subscribe to a bank term deposit using demograph
 - Focused on appropriate evaluation metrics due to class imbalance
 
 ## Dataset
-**UCI Machine Learning Repository — Bank Marketing**  
-Data from direct marketing (phone call) campaigns of a Portuguese bank.
+- UCI Machine Learning Repository — Bank Marketing
+- Data from direct marketing (phone call) campaigns of a Portuguese bank
 
 ## Methods
 - Data preprocessing and encoding
